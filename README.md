@@ -4,36 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Netflix Clone - README</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    max-width: 900px;
-    margin: 2rem auto;
-    line-height: 1.6;
-    color: #222;
-    padding: 0 1rem;
-  }
-  h1, h2, h3 {
-    color: #e50914;
-  }
-  pre {
-    background: #f4f4f4;
-    padding: 1rem;
-    border-radius: 6px;
-    overflow-x: auto;
-  }
-  a {
-    color: #e50914;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  hr {
-    margin: 2rem 0;
-    border: 1px solid #ccc;
-  }
-</style>
+
 </head>
 <body>
   <h1>Netflix Clone - Static Frontend</h1>
